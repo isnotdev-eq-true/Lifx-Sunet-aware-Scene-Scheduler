@@ -1,6 +1,3 @@
-# Lifx-Sunet-aware-Scene-Scheduler
-Schedules Scenes to be set on a schedule which can be relative to sunset.
-
 # LIFX Sunset-aware Scene Scheduler
 
 This project provides an efficient, sunset-aware scheduling solution for managing lighting scenes via the LIFX Cloud API. It utilizes the Unix `at` utility for precise, low-overhead scheduling, initiated by a single daily cron job.
