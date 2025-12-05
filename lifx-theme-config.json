@@ -1,0 +1,14 @@
+{
+  "token": "{yourLifxToken}",
+  "lights": ["{yourLightName"],
+  "scenes": {
+    "stage1": "{yourSceneUUID1}",
+    "stage2": "{yourSceneUUID2}"
+  },
+  "schedules": {
+    "stage1": {
+      "start_offset_minutes": -15, 
+      "end": "21:45"
+    }
+  }
+}
